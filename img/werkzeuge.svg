@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4506"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="werkzeuge.svg"
+   inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+   inkscape:export-xdpi="328"
+   inkscape:export-ydpi="328">
+  <defs
+     id="defs4508">
+    <filter
+       inkscape:collect="always"
+       id="filter4751">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5455303"
+         id="feGaussianBlur4753" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4758">
+      <path
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#887494;stroke-width:1.85800004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m -35.355341,-23.147234 123.036583,0 c 9.793429,0 17.677668,7.88424 17.677668,17.6776689 l 0,31.1126941 c 0,9.793429 -7.884239,17.67767 -17.677668,17.67767 l -123.036583,0 c -9.793429,0 -17.677669,-7.884241 -17.677669,-17.67767 l 0,-31.1126941 c 0,-9.7934289 7.88424,-17.6776689 17.677669,-17.6776689 z"
+         id="path4760"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter4927">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.42490082"
+         id="feGaussianBlur4929" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4945">
+      <rect
+         style="fill:#71746e;fill-opacity:1;fill-rule:nonzero;stroke:#887494;stroke-width:2.47341394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4947"
+         width="150.76048"
+         height="63.013168"
+         x="445.07932"
+         y="51.436085"
+         rx="17.67767"
+         ry="17.67767" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5041">
+      <rect
+         style="fill:#71746e;fill-opacity:1;fill-rule:nonzero;stroke:#887494;stroke-width:2.14982963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5043"
+         width="119.45123"
+         height="120.86543"
+         x="508.43469"
+         y="-84.640602"
+         rx="17.67767"
+         ry="17.67767" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5170">
+      <rect
+         style="fill:#71746e;fill-opacity:1;fill-rule:nonzero;stroke:#887494;stroke-width:2.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5172"
+         width="127"
+         height="130"
+         x="336"
+         y="222.36218"
+         rx="17.67767"
+         ry="17.67767" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5240">
+      <rect
+         style="fill:#71746e;fill-opacity:1;fill-rule:nonzero;stroke:#887494;stroke-width:2.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5242"
+         width="93.5"
+         height="34"
+         x="139.25"
+         y="272.11218"
+         rx="5"
+         ry="5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5308">
+      <rect
+         style="fill:#71746e;fill-opacity:1;fill-rule:nonzero;stroke:#887494;stroke-width:2.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5310"
+         width="183.84776"
+         height="112.42998"
+         x="-53.033009"
+         y="155.04367"
+         rx="15"
+         ry="15" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e8f8ef"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="461.89912"
+     inkscape:cy="1059.4272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1235"
+     inkscape:window-height="771"
+     inkscape:window-x="45"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4511">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5070-9-4-4"
+       transform="matrix(0.79612707,0,0,0.79612707,233.97988,-23.691786)" />
+    <rect
+       style="fill:none;stroke:#8cafaf;stroke-width:2.49918985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5727"
+       width="843.96906"
+       height="652.19836"
+       x="-121.37748"
+       y="-265.12936"
+       inkscape:export-xdpi="103.01398"
+       inkscape:export-ydpi="103.01398"
+       inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png" />
+    <g
+       id="g5312"
+       transform="matrix(0.93822359,0,0,0.93822359,49.430581,-21.217523)">
+      <path
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         transform="matrix(1.8583839,0,0,1.8583839,-155.34589,152.87968)"
+         d="m 224,-24.637817 c 6.81882,6.317445 -5.15163,12.308435 -10.50001,11.333324 -14.49379,-2.64249 -17.50679,-20.963046 -12.16664,-32.333342 9.55227,-20.338793 36.24507,-23.697555 54.16668,-12.999956 26.30067,15.699158 30.0623,51.7309744 13.83327,76.000009 C 247.70255,49.709025 202.0445,53.862832 171.49996,32.028805 133.06277,4.5529104 128.5231,-50.851991 156.00005,-87.637871 189.27833,-132.1905 254.49207,-137.11292 297.50006,-103.97109 348.18349,-64.91459 353.48707,10.144127 314.6666,59.362254 269.84682,116.18653 184.92018,121.87042 129.49992,77.362103 66.527897,26.788927 60.464175,-68.021127 110.66676,-129.63791 c 56.3197,-69.12471 161.02414,-75.56799 228.83334,-19.66648 75.28106,62.061279 82.10373,176.66815 20.49979,250.66668"
+         sodipodi:t0="0"
+         sodipodi:argument="-18.102306"
+         sodipodi:radius="185.39687"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="-24.637817"
+         sodipodi:cx="224"
+         id="path3973"
+         style="fill:none;stroke:#887494;stroke-width:0.99979341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4751)"
+         sodipodi:type="spiral" />
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         transform="translate(-20.828426,18.727922)"
+         clip-path="url(#clipPath5170)"
+         width="131"
+         height="131"
+         xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/android-logo.jpg"
+         id="image3612"
+         x="334"
+         y="221.36218" />
+      <rect
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         y="-60.637817"
+         x="134"
+         height="98"
+         width="133"
+         id="rect3677"
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         y="-88.637817"
+         x="-12"
+         height="121"
+         width="181"
+         id="rect3802"
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         ry="31.975321"
+         rx="31.975321"
+         y="-90.637817"
+         x="-12"
+         height="94"
+         width="145"
+         id="rect3804"
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         y="-71.637817"
+         x="16"
+         height="106"
+         width="135"
+         id="rect3808"
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         y="-82.637817"
+         x="73"
+         height="51"
+         width="149"
+         id="rect3810"
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         width="131"
+         height="94.32"
+         xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/django.png"
+         id="image3906"
+         x="99.629944"
+         y="-203.30098" />
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         style="stroke:#887494;stroke-width:1.63561058;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(1.1919643,0,0,1.3829787,-43.802312,-21.25999)"
+         clip-path="url(#clipPath4758)"
+         width="163.29611"
+         height="70.831192"
+         xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/python.png"
+         id="image3970"
+         x="-54.891342"
+         y="-25.141216" />
+      <g
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         clip-path="url(#clipPath4945)"
+         transform="matrix(0.93880146,0,0,0.93880146,-65.218405,-238.36721)"
+         id="g4931">
+        <rect
+           style="fill:#71746e;fill-opacity:1;fill-rule:nonzero;stroke:#887494;stroke-width:2.12450409;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4927)"
+           id="rect4921"
+           width="257.97549"
+           height="81.94516"
+           x="440.01224"
+           y="46.404774"
+           rx="20.069887"
+           ry="20.069887" />
+        <image
+           width="244"
+           height="73"
+           xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/nltk.png"
+           id="image4901"
+           x="446"
+           y="48.862183"
+           style="fill:#80847d;fill-opacity:1" />
+      </g>
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         transform="translate(-2.3431457,1.4730885)"
+         clip-path="url(#clipPath5041)"
+         y="-86.637817"
+         x="510"
+         id="image5008"
+         xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/nodebox.png"
+         height="120"
+         width="120" />
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         width="90.37207"
+         height="165.65201"
+         xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/java.png"
+         id="image5165"
+         x="497.18082"
+         y="96.503334" />
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         transform="matrix(1.294943,0,0,1.5218221,-162.77288,-146.92308)"
+         clip-path="url(#clipPath5240)"
+         width="150"
+         height="48"
+         xlink:href="file:///home/sajin/Thesis/wordgap/Pr%C3%A4si/img/jsoup.png"
+         id="image5233"
+         x="108"
+         y="263.36218" />
+      <image
+         inkscape:export-ydpi="91.089996"
+         inkscape:export-xdpi="91.089996"
+         inkscape:export-filename="/home/sajin/Thesis/wordgap/Präsi/img/werkzeuge.png"
+         transform="matrix(0.71069182,0,0,0.71069182,-27.100242,13.299053)"
+         clip-path="url(#clipPath5308)"
+         width="192"
+         height="119"
+         xlink:href="data:image/png;base64,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
+"
+         id="image5303"
+         x="-57.816231"
+         y="150.698" />
+    </g>
+  </g>
+</svg>
